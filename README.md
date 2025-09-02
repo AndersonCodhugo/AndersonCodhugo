@@ -4,7 +4,7 @@
     <img src="https://github-readme-stats.vercel.app/api?username=andersoncodhugo&theme=chartreuse-dark&card_width=500" height="165"/>
   </a>
   <a href="https://github.com/AndersonCodhugo/convoychat">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=andersoncodhugo&theme=chartreuse-dark&layout=compact&langs_count=8&card_width=500" height="300"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=andersoncodhugo&theme=chartreuse-dark&layout=compact&langs_count=8&card_width=400" height="300"/>
   </a>
 <div></div>
 
