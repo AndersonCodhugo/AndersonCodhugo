@@ -1,12 +1,27 @@
-<div align="center">
-<h1>ANDERSON HUGO - FULL STACK DEVELOPER</h1>
-  <a href="https://github.com/AndersonCodhugo/github-readme-stats">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AndersonCodhugo&theme=chartreuse_dark"/>
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AndersonCodhugo&theme=chartreuse_dark"/>
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AndersonCodhugo&theme=chartreuse_dark"/>
-  </a>
+# 💫 About Me:
+Anderson Hugo - Full Stack Developer
 
-  <a href="https://wakatime.com/@AndinhoTi">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=AndinhoTi&theme=chartreuse-dark&cache_seconds=1800&card_width=500" height="400"/>
-  </a>
-</div>
+
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/andersonhugu) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anderson-hugo-83a68836a) 
+
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=AndersonCodhugo&theme=chartreuse-dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=AndersonCodhugo&theme=chartreuse-dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AndersonCodhugo&theme=chartreuse-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=AndersonCodhugo&theme=chartreuse-dark&no-frame=false&no-bg=true&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=AndersonCodhugo&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=AndersonCodhugo&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
